@@ -6,7 +6,7 @@ Currently Nerd, Teacher, Gamer, Nerdwrangler.
 
 🔭 I’m currently working on ...
 
-- Improved pedagogy to improve engagement in STEM subjects
+- Improving pedagogy to improve engagement in STEM subjects
 - Improving technology to automate common tasks of classroom teachers
 - Improving data analysis within schools to improve understanding of teacher workload
 - Designing and implementing curriculum for:
