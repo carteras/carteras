@@ -26,9 +26,13 @@ Currently Nerd, Teacher, Gamer, Nerdwrangler.
 - Teaching and Learning
 - Becoming a nerd
 
+📫 How to reach me:
+
+- [My LinkedIn](https://www.linkedin.com/in/adam-carter-9b064a8/)
+
 😄 Pronouns
 
-he/him
+* he/him
 
 <!--
 **carteras/carteras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
