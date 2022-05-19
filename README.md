@@ -1,5 +1,35 @@
 ### Hi there 👋
 
+Former Software Developer and Designer.
+
+Currently Nerd, Teacher, Gamer, Nerdwrangler.
+
+🔭 I’m currently working on ...
+
+- Improved pedagogy to improve engagement in STEM subjects
+- Improving technology to automate common tasks of classroom teachers
+- Improving data analysis within schools to improve understanding of teacher workload
+- Designing and implementing curriculum for:
+  - Robotics and Mechatronics
+  - Software Development
+  - Networking and Security
+
+🌱 I’m currently learning
+
+- Seaborn: statistical data visualization
+- Cyber Security
+- Social Consuctivism
+- Google API for Google Workspaces for Education 
+
+💬 Ask me about
+
+- Teaching and Learning
+- Becoming a nerd
+
+😄 Pronouns
+
+he/him
+
 <!--
 **carteras/carteras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
