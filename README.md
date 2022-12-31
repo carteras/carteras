@@ -30,7 +30,7 @@ Former software developer and designer now classroom teacher teaching Cyber Secu
 - Improving technology to automate common tasks of classroom teachers
 - Improving data analysis within schools to improve understanding of teacher workload
 - Designing and implementing curriculum for:
-  - Robotics and Mechatronics
+  - Engineering
   - Software Development
   - Networking and Security
 
