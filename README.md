@@ -1,16 +1,13 @@
-Hi 👋 My name is Adam
+Hi 👋 My name is Adam.
 =====================
 
 nerd.geek.nerdwrangler.teacher
 ------------------------------
+he/him
 
-😄 Pronouns
+I am a former software developer and designer, now a classroom teacher teaching Cyber Security and Engineering in the ACT.
 
-* he/him
-
-Former software developer and designer now classroom teacher teaching Cyber Security and Engineering in the ACT.
-
-*   🌍  I'm based in Canberra, Australia
+*   🌍 I'm based in Canberra, Australia
 
 ### Skills 
 <p align="left">
@@ -24,21 +21,22 @@ Former software developer and designer now classroom teacher teaching Cyber Secu
                     
  
 
-🔭 I’m currently working on ...
+🔭 I'm currently working on ...
 
 - Improving pedagogy to improve engagement in STEM subjects
-- Improving technology to automate common tasks of classroom teachers
-- Improving data analysis within schools to improve understanding of teacher workload
+- Improving technology to automate everyday tasks of classroom teachers
+- Improving data analysis within schools to improve decision-making in schools
 - Designing and implementing curriculum for:
   - Engineering
   - Software Development
   - Networking and Security
 
-🌱 I’m currently learning
+🌱 I'm currently learning
 
-- Seaborn: statistical data visualization
 - Cyber Security
-- Social Consuctivism
+- Data Engineering
+- Data Analysis
+- Social Constructivism in high technical literacy environments
 - Google API for Google Workspaces for Education 
 
 💬 Ask me about
@@ -56,17 +54,4 @@ Former software developer and designer now classroom teacher teaching Cyber Secu
                   
 <p align="left"> <a href="https://www.github.com/carteras" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adam-carter-9b064a8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<!--
-**carteras/carteras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
