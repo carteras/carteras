@@ -28,9 +28,9 @@ I am a former software developer and designer, now a classroom teacher teaching 
 - Improving technology to automate everyday tasks of classroom teachers
 - Improving data analysis within schools to improve decision-making in schools
 - Designing and implementing curriculum for:
-  - Engineering
-  - Software Development
+  - Engineering (Mechatronic)
   - Networking and Security
+- Constructing a cyber-range for Offensive and Defensive training
 
 🌱 I'm currently learning
 
