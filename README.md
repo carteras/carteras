@@ -19,8 +19,8 @@ I am a former software developer and designer, now a classroom teacher teaching 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.microsoft.com/en-au/microsoft-365/excel" rel="noreferrer"><img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Excel_36x36_2x?fmt=png-alpha"  width="36" height="36" /></a>
 <a href="https://pandas.pydata.org/" rel="noreferrer"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg"  width="36" height="36" /></a>
-<a href="" rel="noreferrer"><img src=""  width="36" height="36" /></a>
-<a href="" rel="noreferrer"><img src=""  width="36" height="36" /></a>
+
+<!--<a href="" rel="noreferrer"><img src=""  width="36" height="36" /></a>-->
 </p>
                     
  
