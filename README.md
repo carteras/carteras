@@ -41,8 +41,8 @@ I am a former software developer and designer, now a classroom teacher teaching 
 
 💬 Ask me about
 
-- Teaching and Learning
-- Becoming a nerd
+- How nerds learn
+- How schools can improve decision making with data
 
 📫 How to reach me:
 
