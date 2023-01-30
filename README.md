@@ -1,50 +1,61 @@
-### Hi there 👋
+Hi 👋 My name is Adam.
+=====================
 
-Former Software Developer and Designer.
+nerd.geek.nerdwrangler.teacher
+------------------------------
+he/him
 
-Currently Nerd, Teacher, Gamer, Nerdwrangler.
+I am a former software developer and designer, now a classroom teacher teaching Cyber Security and Engineering in the ACT.
 
-🔭 I’m currently working on ...
+*   🌍 I'm based in Canberra, Australia
+
+### Skills 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.microsoft.com/en-au/microsoft-365/excel" rel="noreferrer"><img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Excel_36x36_2x?fmt=png-alpha"  width="36" height="36" /></a>
+<a href="https://pandas.pydata.org/" rel="noreferrer"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg"  width="36" height="36" /></a>
+
+<!--<a href="" rel="noreferrer"><img src=""  width="36" height="36" /></a>-->
+</p>
+                    
+ 
+
+🔭 I'm currently working on ...
 
 - Improving pedagogy to improve engagement in STEM subjects
-- Improving technology to automate common tasks of classroom teachers
-- Improving data analysis within schools to improve understanding of teacher workload
+- Improving technology to automate everyday tasks of classroom teachers
+- Improving data analysis within schools to improve decision-making in schools
 - Designing and implementing curriculum for:
-  - Robotics and Mechatronics
-  - Software Development
+  - Engineering (Mechatronic)
   - Networking and Security
+- Constructing a cyber-range for Offensive and Defensive training
 
-🌱 I’m currently learning
+🌱 I'm currently learning
 
-- Seaborn: statistical data visualization
 - Cyber Security
-- Social Consuctivism
+- Data Engineering
+- Data Analysis
+- Social Constructivism in high technical literacy environments
 - Google API for Google Workspaces for Education 
 
 💬 Ask me about
 
-- Teaching and Learning
-- Becoming a nerd
+- How nerds learn
+- How schools can improve decision making with data
 
 📫 How to reach me:
 
 - [My LinkedIn](https://www.linkedin.com/in/adam-carter-9b064a8/)
 
-😄 Pronouns
 
-* he/him
 
-<!--
-**carteras/carteras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Socials
+                  
+<p align="left"> <a href="https://www.github.com/carteras" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adam-carter-9b064a8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
